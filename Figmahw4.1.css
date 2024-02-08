@@ -1,0 +1,177 @@
+body {
+    margin: 0;
+    font-family: 'KoHo', sans-serif;
+}
+
+header {
+    background-image: url("image 4.png");
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+
+.pageOne {
+    display: flex;
+    height: 50vh;
+    width: 80vw;
+}
+
+.river {
+    height: 50vh;
+    width: 40vw;
+    background-image: url("image 3.png");
+    background-size: cover;
+}
+.slideOne{
+    background-color: white;
+    height: 50vh;
+    width: 40vw;
+}
+.textOne{
+    height:70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 20px;
+
+}
+.buttonOne{
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buttonOne input{
+    height: 7vh;
+    width: 30vw;
+    font-family: 'KoHo', sans-serif;
+    font-size: 30px;
+}
+main{
+    height: 100vh;
+    width: 100vw;
+    background-image:url("Rectangle 16.png") ;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pageTwo{
+    height: 80vh;
+    width: 60vw;
+}
+.imageTwo{
+    height: 60vh;
+    margin-bottom: 20px;
+
+}
+.textTwo{
+    height: 20vh;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    color: #000;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+footer{
+    height: 100vh;
+    width: 100vw;
+    background-image:url("Rectangle 16.png") ;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pageThree{
+    height: 75vh;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100vw;
+    text-align: center;
+    font-size: 25px;
+}
+.mountainsOne{
+    background: rgba(83, 83, 83, 0.40);
+    height: 75vh;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+}
+.mountainsTwo{
+    background: rgba(83, 83, 83, 0.40);
+    height: 75vh;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+}
+.mountainsThree{
+    background: rgba(83, 83, 83, 0.40);
+    height: 75vh;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+}
+.mountainsOneImage{
+    height: 30vh;
+    background-image: url("Rectangle 13.png");
+    background-size: cover;
+    width: 90%;
+    margin: 5%;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+
+}
+.mountainsTwoImage{
+    height: 30vh;
+    background-image: url("Rectangle 10.png");
+    background-size: cover;
+    width: 90%;
+    margin: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.mountainsThreeImage{
+    height: 32vh;
+    background-image: url("Rectangle 11.png");
+    background-size: cover;
+    width: 90%;
+    margin: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.textThree{
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'KoHo', sans-serif;
+}
+.buttonTwo{
+    height: 18vh;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    margin: 5%;
+}
+.buttonTwo input{
+    height: 10vh;
+    width: 25vw;
+    font-family: 'KoHo', sans-serif;
+    font-size: 30px;
+    border-radius:5px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
